@@ -52,10 +52,14 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 
 ---
 ## 📸 Visuals & Dashboard
-![Amazon Cleaned](https://drive.google.com/file/d/19ME4caXkqO8BhZ7kK9NF9X1xV3q0TEAb/view?usp=drivesdk)
-![Amazon Raw](https://drive.google.com/file/d/1MJZZAHJDxb3FSiW7zOEBTBLhG2_GzfSX/view?usp=drivesdk)
-![Amazon Pivot](https://drive.google.com/file/d/1nBqNHalmK9cq4AUGhtXKgZBZ-nvniSpO/view?usp=drivesdk)
-![Amazon Product Dashboard](https://drive.google.com/file/d/1QEUtR0bhzeXc1xSpA9FBm4bheIXHmGV3/view?usp=drivesdk)
+
+![RAW DATASET](https://drive.google.com/uc?export=view&id=1MJZZAHJDxb3FSiW7zOEBTBLhG2_GzfSX)
+
+![CEANED DATASET](https://drive.google.com/uc?export=view&id=19ME4caXkqO8BhZ7kK9NF9X1xV3q0TEAb)
+
+![PIVOT TABLE](https://drive.google.com/uc?export=view&id=1nBqNHalmK9cq4AUGhtXKgZBZ-nvniSpO)
+
+![PROJECT DASHBOARD](https://drive.google.com/uc?export=view&id=1QEUtR0bhzeXc1xSpA9FBm4bheIXHmGV3)
 
 ### 🧠 Key Highlights from Dashboard:
 
